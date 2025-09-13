@@ -63,9 +63,6 @@ It can be used for tasks like image captioning, visual question answering, and i
 
 [Learn more about PaliGemma →](./PaliGemma/)
 
-## Contributing
-
-Contributions to add new multimodal architectures or improve existing implementations are welcome.
 
 ## License
 
